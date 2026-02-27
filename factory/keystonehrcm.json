@@ -1,0 +1,9 @@
+{
+	"name": "keystonehrcm",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cffca654-1661-408c-b39f-7d401164c84b",
+		"tenantId": "950737a4-2947-46ce-9c53-4728f01fd598"
+	}
+}
